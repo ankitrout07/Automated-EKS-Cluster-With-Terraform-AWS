@@ -1,1 +1,1 @@
-# Automated-EKS-Cluster-With-Terraform-AWS-
+# Automated-EKS-Cluster-With-Terraform (AWS)
